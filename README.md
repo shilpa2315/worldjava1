@@ -20,3 +20,5 @@ $ cd samplewar
 $ mvn package
 
 #TEST CI JOB
+
+#This is saturday class
