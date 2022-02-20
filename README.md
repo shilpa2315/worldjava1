@@ -4,7 +4,7 @@ This Repo consists of 2 Maven projects:
  1. samplejar: Build a standard jar devlierable
  2. samplewar: Build a standar war delvierable
  
-
+#This is a new job
 BUILDING SAMPLEJAR COMPONENT
 $ cd samplejar
 
