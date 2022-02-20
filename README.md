@@ -18,7 +18,7 @@ $ mvn package -Pcodecoverage
 BUILDING SAMPLEWAR COMPONENT
 $ cd samplewar
 $ mvn package
-
+#tes
 #TEST CI JOB
 
 #This is saturday class
