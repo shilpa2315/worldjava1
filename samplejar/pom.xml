@@ -52,6 +52,11 @@
       </configuration>
 </plugin>
 <plugin>
+ <groupId>org.apache.maven.plugins</groupId>
+ <artifactId>maven-surefire-plugin</artifactId>
+ <version>3.8.6</version>
+</plugin>
+<plugin>
  <groupId>org.jacoco</groupId>
  <artifactId>jacoco-maven-plugin</artifactId>
  <version>0.5.5.201112152213</version>
